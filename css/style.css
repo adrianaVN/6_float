@@ -1,0 +1,21 @@
+	.cajaM, .clearfix{
+		overflow: auto;
+  		zoom: 1;
+		background-color:yellow;
+		height: 100px;
+		width: 330px;
+		color:white;
+		padding:20px;
+		
+	}
+	.caja4, .floating{
+		float: left;
+		display: block;
+		background-color:black;
+		height: 40px;
+		width: 40px;
+		color:white;
+		padding:20px;
+		margin: 10px;		
+}
+	
